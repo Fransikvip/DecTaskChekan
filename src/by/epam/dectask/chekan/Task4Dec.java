@@ -1,4 +1,4 @@
-//false, если не принадлежит
+package by.epam.dectask.chekan;//false, если не принадлежит
 
 import java.util.Scanner;
 

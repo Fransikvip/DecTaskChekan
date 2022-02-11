@@ -1,4 +1,4 @@
-
+package by.epam.dectask.chekan;
 
 import java.util.Scanner;
 
